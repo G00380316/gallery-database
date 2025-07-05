@@ -10,7 +10,7 @@ import random
 
 logger = logger.get_logger()
 
-REPO_URL = "https://github.com/G00380316/hyde-gallery.git"
+REPO_URL = "https://github.com/G00380316/gallery-database.git"
 CLONE_DIR = os.path.join(
     os.getenv("XDG_CACHE_HOME", os.path.expanduser("~/.cache")),
     "hyde/gallery-database",

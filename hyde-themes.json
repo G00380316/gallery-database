@@ -98,13 +98,6 @@
     "COLORSCHEME": ["#1E212B", "#5B6B76"]
   },
   {
-    "THEME": "Dracula",
-    "LINK": "https://github.com/RAprogramm/HyDe-Themes/tree/Dracula",
-    "OWNER": "https://github.com/RAprogramm",
-    "DESCRIPTION": "Dracula based theme",
-    "COLORSCHEME": ["#2B2E3B", "#607988"]
-  },
-  {
     "THEME": "Catppuccin Latte",
     "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Latte",
     "OWNER": "https://github.com/prasanthrangan",
@@ -376,13 +369,6 @@
     "OWNER": "https://github.com/jackpawlik1",
     "DESCRIPTION": "A rich, dark theme crafted for late-night productivity and sleek aesthetics.",
     "COLORSCHEME": ["#1A1B26", "#A9B1D6"]
-  },
-  {
-    "THEME": "Virtual-Witches",
-    "LINK": "https://github.com/luqvic/Virtual-Witches",
-    "OWNER": "https://github.com/luqvic",
-    "DESCRIPTION": "HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon",
-    "COLORSCHEME": ["#626880", "#C6D0F5"]
   },
   {
     "THEME": "Piece Of Mind",

@@ -1,0 +1,20 @@
+{
+    "THEME": "Virtual-Witches",
+    "LINK": "https://github.com/luqvic/Virtual-Witches",
+    "OWNER": "https://github.com/luqvic",
+    "DESCRIPTION": "HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon",
+    "COLORSCHEME": [
+        "#626880",
+        "#C6D0F5"
+    ]
+},
+{
+    "THEME": "Dracula",
+    "LINK": "https://github.com/RAprogramm/HyDe-Themes/tree/Dracula",
+    "OWNER": "https://github.com/RAprogramm",
+    "DESCRIPTION": "Dracula based theme",
+    "COLORSCHEME": [
+        "#2B2E3B",
+        "#607988"
+    ]
+},
