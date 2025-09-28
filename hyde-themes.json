@@ -4,15 +4,23 @@
     "LINK": "https://github.com/amit-0i/1-Bit",
     "OWNER": "https://github.com/amit-0i",
     "DESCRIPTION": "Monochrome based theme",
-    "COLORSCHEME": ["#131313", "#FCFCFC"],
-    "PREVIEW": ["/home/enoch/.cache/hyde/gallery-database/1-Bit/screenshot.png"]
+    "COLORSCHEME": [
+      "#131313",
+      "#FCFCFC"
+    ],
+    "PREVIEW": [
+      "/home/enoch/.cache/hyde/gallery-database/1-Bit/screenshot.png"
+    ]
   },
   {
     "THEME": "AncientAliens",
     "LINK": "https://github.com/dim-ghub/AncientAliens",
     "OWNER": "https://github.com/dim-ghub",
     "DESCRIPTION": "A futuristic alien-like theme. Designed to invoke the feelings of watching the History channel at three in the morning.",
-    "COLORSCHEME": ["#09101C", "#AAD5F0"],
+    "COLORSCHEME": [
+      "#09101C",
+      "#AAD5F0"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/AncientAliens/Preview.png"
     ]
@@ -22,15 +30,23 @@
     "LINK": "https://github.com/xaicat/LimeFrenzy",
     "OWNER": "https://github.com/xaicat",
     "DESCRIPTION": "Lime’s rhythm splits the night, where chaos crafts the vibe.",
-    "COLORSCHEME": ["#012315", "#90C81F"],
-    "PREVIEW": ["/home/enoch/.cache/hyde/gallery-database/LimeFrenzy/theme.png"]
+    "COLORSCHEME": [
+      "#012315",
+      "#90C81F"
+    ],
+    "PREVIEW": [
+      "/home/enoch/.cache/hyde/gallery-database/LimeFrenzy/theme.png"
+    ]
   },
   {
     "THEME": "Tundra",
     "LINK": "https://github.com/Prof-Shiba/Tundra",
     "OWNER": "https://github.com/Prof-Shiba",
     "DESCRIPTION": "A Soothing, Pastel Tundra Theme.",
-    "COLORSCHEME": ["#4A5F82", "#D096AA"],
+    "COLORSCHEME": [
+      "#4A5F82",
+      "#D096AA"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Tundra/1.png",
       "/home/enoch/.cache/hyde/gallery-database/Tundra/2.png"
@@ -41,7 +57,10 @@
     "LINK": "https://github.com/amit-0i/Crimson-Blue",
     "OWNER": "https://github.com/amit-0i",
     "DESCRIPTION": "Red with Blue vibes",
-    "COLORSCHEME": ["#0A0005", "#CCD7FF"],
+    "COLORSCHEME": [
+      "#0A0005",
+      "#CCD7FF"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Crimson-Blue/preview.png"
     ]
@@ -51,23 +70,36 @@
     "LINK": "https://github.com/XBEAST1/Electra",
     "OWNER": "https://github.com/XBEAST1",
     "DESCRIPTION": "Where darkness meets brilliance",
-    "COLORSCHEME": ["#1A242E", "#ABB8C8"],
-    "PREVIEW": ["/home/enoch/.cache/hyde/gallery-database/Electra/Electra.png"]
+    "COLORSCHEME": [
+      "#1A242E",
+      "#ABB8C8"
+    ],
+    "PREVIEW": [
+      "/home/enoch/.cache/hyde/gallery-database/Electra/Electra.png"
+    ]
   },
   {
     "THEME": "Grukai",
     "LINK": "https://github.com/amit-0i/Grukai",
     "OWNER": "https://github.com/amit-0i",
     "DESCRIPTION": "Where retro warmth meets modern edge",
-    "COLORSCHEME": ["#312219", "#A3A365"],
-    "PREVIEW": ["/home/enoch/.cache/hyde/gallery-database/Grukai/preview.png"]
+    "COLORSCHEME": [
+      "#312219",
+      "#A3A365"
+    ],
+    "PREVIEW": [
+      "/home/enoch/.cache/hyde/gallery-database/Grukai/preview.png"
+    ]
   },
   {
     "THEME": "Obsidian-Purple",
     "LINK": "https://github.com/amit-0i/Obsidian-Purple",
     "OWNER": "https://github.com/amit-0i",
     "DESCRIPTION": "Where mystery meets elegance.",
-    "COLORSCHEME": ["#07040C", "#BDA8DC"],
+    "COLORSCHEME": [
+      "#07040C",
+      "#BDA8DC"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Obsidian-Purple/preview.png"
     ]
@@ -77,7 +109,10 @@
     "LINK": "https://github.com/jacobfranco/Code-Garden",
     "OWNER": "https://github.com/jacobfranco",
     "DESCRIPTION": "A sleek and transparent, color-agnostic theme.",
-    "COLORSCHEME": ["#000000", "#FFFFFF"],
+    "COLORSCHEME": [
+      "#000000",
+      "#FFFFFF"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Code Garden/1.png",
       "/home/enoch/.cache/hyde/gallery-database/Code Garden/2.png",
@@ -89,7 +124,10 @@
     "LINK": "https://github.com/xaicat/DoomBringers",
     "OWNER": "https://github.com/xaicat",
     "DESCRIPTION": "When shadows catch fire, sharp edges leave their mark.",
-    "COLORSCHEME": ["#351810", "#FABD2F"],
+    "COLORSCHEME": [
+      "#351810",
+      "#FABD2F"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/DoomBringers/DoomBringers_1.png"
     ]
@@ -99,7 +137,10 @@
     "LINK": "https://github.com/HyDE-Project/hyde-gallery/tree/Bad-Blood",
     "OWNER": "https://github.com/HyDE-Project",
     "DESCRIPTION": "Red & Black based theme.",
-    "COLORSCHEME": ["#030000", "#DF1010"],
+    "COLORSCHEME": [
+      "#030000",
+      "#DF1010"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Bad Blood/preview.png"
     ]
@@ -109,15 +150,23 @@
     "LINK": "https://github.com/HyDE-Project/hyde-gallery/tree/Mac-Os",
     "OWNER": "https://github.com/T-Crypt",
     "DESCRIPTION": "Official Theme",
-    "COLORSCHEME": ["#857990", "#B9D7EA"],
-    "PREVIEW": ["/home/enoch/.cache/hyde/gallery-database/Mac OS/preview.png"]
+    "COLORSCHEME": [
+      "#857990",
+      "#B9D7EA"
+    ],
+    "PREVIEW": [
+      "/home/enoch/.cache/hyde/gallery-database/Mac OS/preview.png"
+    ]
   },
   {
     "THEME": "Windows 11",
     "LINK": "https://github.com/HyDE-Project/hyde-gallery/tree/Windows-11",
     "OWNER": "https://github.com/T-Crypt",
     "DESCRIPTION": "We love Windows! Wew",
-    "COLORSCHEME": ["#277AE6", "#D2DCFD"],
+    "COLORSCHEME": [
+      "#277AE6",
+      "#D2DCFD"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Windows 11/preview.png"
     ]
@@ -127,7 +176,10 @@
     "LINK": "https://github.com/HyDE-Project/hyde-gallery/tree/Hack-the-Box",
     "OWNER": "https://github.com/T-Crypt",
     "DESCRIPTION": "Hacker based theme",
-    "COLORSCHEME": ["#061234", "#50AA09"],
+    "COLORSCHEME": [
+      "#061234",
+      "#50AA09"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Hack the Box/Hack the box.png"
     ]
@@ -137,7 +189,10 @@
     "LINK": "https://github.com/RAprogramm/HyDe-Themes/tree/One-Dark",
     "OWNER": "https://github.com/RAprogramm",
     "DESCRIPTION": "One Dark based theme",
-    "COLORSCHEME": ["#1E212B", "#5B6B76"],
+    "COLORSCHEME": [
+      "#1E212B",
+      "#5B6B76"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/One Dark/240213_11h47m22s_screenshot.png"
     ]
@@ -147,7 +202,10 @@
     "LINK": "https://github.com/RAprogramm/HyDe-Themes/tree/Dracula",
     "OWNER": "https://github.com/RAprogramm",
     "DESCRIPTION": "Dracula based theme",
-    "COLORSCHEME": ["#2B2E3B", "#607988"],
+    "COLORSCHEME": [
+      "#2B2E3B",
+      "#607988"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Dracula/240504_10h47m00s_screenshot.png",
       "/home/enoch/.cache/hyde/gallery-database/Dracula/wals2.png"
@@ -158,7 +216,10 @@
     "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Latte",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
-    "COLORSCHEME": ["#dd7878", "#eff1f5"],
+    "COLORSCHEME": [
+      "#dd7878",
+      "#eff1f5"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Catppuccin Latte/theme_latte_1.png"
     ]
@@ -168,7 +229,10 @@
     "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Mocha",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
-    "COLORSCHEME": ["#b4befe", "#11111b"],
+    "COLORSCHEME": [
+      "#b4befe",
+      "#11111b"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Catppuccin Mocha/theme_mocha_1.png",
       "/home/enoch/.cache/hyde/gallery-database/Catppuccin Mocha/theme_mocha_2.png"
@@ -179,7 +243,10 @@
     "LINK": "https://github.com/deepu105/hyde-theme-catppuccin-macchiato",
     "OWNER": "https://github.com/deepu105",
     "DESCRIPTION": "Catppuccin Macchiato with Mauve Accent",
-    "COLORSCHEME": ["#c6a0f6", "#11111b"],
+    "COLORSCHEME": [
+      "#c6a0f6",
+      "#11111b"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Catppuccin-Macchiato/preview.png"
     ]
@@ -189,7 +256,10 @@
     "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
-    "COLORSCHEME": ["#14161E", "#95D3AF"],
+    "COLORSCHEME": [
+      "#14161E",
+      "#95D3AF"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Decay Green/theme_decay_1.png",
       "/home/enoch/.cache/hyde/gallery-database/Decay Green/theme_decay_2.png"
@@ -200,7 +270,10 @@
     "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Edge-Runner",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
-    "COLORSCHEME": ["#fada16", "#000000"],
+    "COLORSCHEME": [
+      "#fada16",
+      "#000000"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Edge Runner/theme_cedge_1.png",
       "/home/enoch/.cache/hyde/gallery-database/Edge Runner/theme_cedge_2.png"
@@ -211,7 +284,10 @@
     "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Frosted-Glass",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
-    "COLORSCHEME": ["#7ed6ff", "#1e4c84"],
+    "COLORSCHEME": [
+      "#7ed6ff",
+      "#1e4c84"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Frosted Glass/theme_frosted_1.png",
       "/home/enoch/.cache/hyde/gallery-database/Frosted Glass/theme_frosted_2.png"
@@ -222,7 +298,10 @@
     "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Graphite-Mono",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
-    "COLORSCHEME": ["#222222", "#D9D9D9"],
+    "COLORSCHEME": [
+      "#222222",
+      "#D9D9D9"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Graphite Mono/theme_graph_1.png",
       "/home/enoch/.cache/hyde/gallery-database/Graphite Mono/theme_graph_2.png"
@@ -233,7 +312,10 @@
     "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Gruvbox-Retro",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
-    "COLORSCHEME": ["#353842", "#ADAE89"],
+    "COLORSCHEME": [
+      "#353842",
+      "#ADAE89"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Gruvbox Retro/theme_gruvbox_1.png",
       "/home/enoch/.cache/hyde/gallery-database/Gruvbox Retro/theme_gruvbox_2.png"
@@ -244,7 +326,10 @@
     "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Material-Sakura",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
-    "COLORSCHEME": ["#f2e9e1", "#b4637a"],
+    "COLORSCHEME": [
+      "#f2e9e1",
+      "#b4637a"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Material Sakura/theme_maura_1.png",
       "/home/enoch/.cache/hyde/gallery-database/Material Sakura/theme_maura_2.png"
@@ -255,7 +340,10 @@
     "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Nordic-Blue",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
-    "COLORSCHEME": ["#7B98B8", "#CAD7E1"],
+    "COLORSCHEME": [
+      "#7B98B8",
+      "#CAD7E1"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Nordic Blue/Nordic Blue.png"
     ]
@@ -265,7 +353,10 @@
     "LINK": "https://github.com/KaranRaval555/Sci-fi",
     "OWNER": "https://github.com/KaranRaval555",
     "DESCRIPTION": "Sci-fi based theme",
-    "COLORSCHEME": ["#0D55B2", "#249CB6"],
+    "COLORSCHEME": [
+      "#0D55B2",
+      "#249CB6"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Sci-fi/ss1.png",
       "/home/enoch/.cache/hyde/gallery-database/Sci-fi/ss2.png",
@@ -277,15 +368,23 @@
     "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Synth-Wave",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
-    "COLORSCHEME": ["#495495", "#ff7edb"],
-    "PREVIEW": ["/home/enoch/.cache/hyde/gallery-database/Synth Wave/image.png"]
+    "COLORSCHEME": [
+      "#495495",
+      "#ff7edb"
+    ],
+    "PREVIEW": [
+      "/home/enoch/.cache/hyde/gallery-database/Synth Wave/image.png"
+    ]
   },
   {
     "THEME": "Tokyo Night",
     "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Tokyo-Night",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
-    "COLORSCHEME": ["#7aa2f7", "#24283b"],
+    "COLORSCHEME": [
+      "#7aa2f7",
+      "#24283b"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Tokyo Night/theme_tokyo_1.png",
       "/home/enoch/.cache/hyde/gallery-database/Tokyo Night/theme_tokyo_2.png"
@@ -296,7 +395,10 @@
     "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Rose-Pine",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
-    "COLORSCHEME": ["#c4a7e7", "#191724"],
+    "COLORSCHEME": [
+      "#c4a7e7",
+      "#191724"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Rosé Pine/theme_rosine_1.png",
       "/home/enoch/.cache/hyde/gallery-database/Rosé Pine/theme_rosine_2.png"
@@ -307,7 +409,10 @@
     "LINK": "https://github.com/Itz-Abhishek-Tiwari/AbyssGreen",
     "OWNER": "https://github.com/Itz-Abhishek-Tiwari",
     "DESCRIPTION": "AbyssGreen is a theme based on the Everforst color scheme",
-    "COLORSCHEME": ["#373C3F", "#83B38E"],
+    "COLORSCHEME": [
+      "#373C3F",
+      "#83B38E"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/AbyssGreen/240622_10h19m00s_screenshot.png"
     ]
@@ -317,7 +422,10 @@
     "LINK": "https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave/tree/main",
     "OWNER": "https://github.com/Itz-Abhishek-Tiwari",
     "DESCRIPTION": "Dive into the deep, where elegance meets the infinite night.",
-    "COLORSCHEME": ["#16161D", "#C8C093"],
+    "COLORSCHEME": [
+      "#16161D",
+      "#C8C093"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Abyssal-Wave/Screens1hort.png",
       "/home/enoch/.cache/hyde/gallery-database/Abyssal-Wave/Screens2hort.png",
@@ -329,7 +437,10 @@
     "LINK": "https://github.com/mahaveergurjar/Theme-Gallery/tree/Red_Stone",
     "OWNER": "https://github.com/mahaveergurjar",
     "DESCRIPTION": "Hot Red based theme",
-    "COLORSCHEME": ["#7E5655", "#C94342"],
+    "COLORSCHEME": [
+      "#7E5655",
+      "#C94342"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Red Stone/Red-Stone.png"
     ]
@@ -339,7 +450,10 @@
     "LINK": "https://github.com/rishav12s/Rain-Dark",
     "OWNER": "https://github.com/rishav12s",
     "DESCRIPTION": "Cozy new Rain based theme for HyDE",
-    "COLORSCHEME": ["#1E2233", "#822195"],
+    "COLORSCHEME": [
+      "#1E2233",
+      "#822195"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Rain Dark/1-preview.png",
       "/home/enoch/.cache/hyde/gallery-database/Rain Dark/ss_1.png"
@@ -350,7 +464,10 @@
     "LINK": "https://github.com/rishav12s/Paranoid-Sweet",
     "OWNER": "https://github.com/rishav12s",
     "DESCRIPTION": "Dark purple based theme for HyDE",
-    "COLORSCHEME": ["#821595", "#51ABAB"],
+    "COLORSCHEME": [
+      "#821595",
+      "#51ABAB"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Paranoid Sweet/ss_1.png",
       "/home/enoch/.cache/hyde/gallery-database/Paranoid Sweet/ss_2.png"
@@ -361,7 +478,10 @@
     "LINK": "https://github.com/rishav12s/Solarized-Dark",
     "OWNER": "https://github.com/rishav12s",
     "DESCRIPTION": "Solarized Dark based theme for HyDE",
-    "COLORSCHEME": ["#044655", "#259E9C"],
+    "COLORSCHEME": [
+      "#044655",
+      "#259E9C"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Solarized Dark/ss_1.png",
       "/home/enoch/.cache/hyde/gallery-database/Solarized Dark/ss_2.png"
@@ -372,7 +492,10 @@
     "LINK": "https://github.com/abenezerw/Green-Lush",
     "OWNER": "https://github.com/abenezerw",
     "DESCRIPTION": "A ghibli based theme for Hyde",
-    "COLORSCHEME": ["#89E574", "#153550"],
+    "COLORSCHEME": [
+      "#89E574",
+      "#153550"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Green Lush/rofi+wallpaper.png",
       "/home/enoch/.cache/hyde/gallery-database/Green Lush/spf+vscode+spotify.png",
@@ -384,7 +507,10 @@
     "LINK": "https://github.com/mahaveergurjar/Theme-Gallery/tree/Greenify",
     "OWNER": "https://github.com/mahaveergurjar",
     "DESCRIPTION": "Dark Green based theme for Hyde",
-    "COLORSCHEME": ["#0e120f", "#295233"],
+    "COLORSCHEME": [
+      "#0e120f",
+      "#295233"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Greenify/Greenify.png"
     ]
@@ -394,15 +520,23 @@
     "LINK": "https://github.com/mahaveergurjar/Theme-Gallery/tree/Monokai",
     "OWNER": "https://github.com/mahaveergurjar",
     "DESCRIPTION": "Monokai based theme for Hyde",
-    "COLORSCHEME": ["#2d2a2e", "#f92672"],
-    "PREVIEW": ["/home/enoch/.cache/hyde/gallery-database/Monokai/Monokai.png"]
+    "COLORSCHEME": [
+      "#2d2a2e",
+      "#f92672"
+    ],
+    "PREVIEW": [
+      "/home/enoch/.cache/hyde/gallery-database/Monokai/Monokai.png"
+    ]
   },
   {
     "THEME": "Scarlet Night",
     "LINK": "https://github.com/abenezerw/Scarlet-Night",
     "OWNER": "https://github.com/abenezerw",
     "DESCRIPTION": "Hot-Red + Deep-Black",
-    "COLORSCHEME": ["#FF0000", "#0A0A0A"],
+    "COLORSCHEME": [
+      "#FF0000",
+      "#0A0A0A"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Scarlet Night/Rofi.png"
     ]
@@ -412,7 +546,10 @@
     "LINK": "https://github.com/rishav12s/Oxo-Carbon",
     "OWNER": "https://github.com/rishav12s",
     "DESCRIPTION": "Oxo Carbon based theme for Hyde",
-    "COLORSCHEME": ["#161616", "#EE5396"],
+    "COLORSCHEME": [
+      "#161616",
+      "#EE5396"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Oxo Carbon/Oxo Carbon.png"
     ]
@@ -422,7 +559,10 @@
     "LINK": "https://github.com/saber-88/Ice-Age",
     "OWNER": "https://github.com/saber-88",
     "DESCRIPTION": "Winter based Ice Age theme for Hyde",
-    "COLORSCHEME": ["#00c1e4cc", "#0E2840B3"],
+    "COLORSCHEME": [
+      "#00c1e4cc",
+      "#0E2840B3"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Ice Age/241008_13h40m10s_screenshot.png"
     ]
@@ -432,15 +572,23 @@
     "LINK": "https://github.com/rishav12s/Cat-Latte",
     "OWNER": "https://github.com/rishav12s",
     "DESCRIPTION": "Better Catppuccin-Latte that fixes the inconsistencies of the official theme",
-    "COLORSCHEME": ["#EFF1F5", "#DD7878"],
-    "PREVIEW": ["/home/enoch/.cache/hyde/gallery-database/Cat Latte/ss.png"]
+    "COLORSCHEME": [
+      "#EFF1F5",
+      "#DD7878"
+    ],
+    "PREVIEW": [
+      "/home/enoch/.cache/hyde/gallery-database/Cat Latte/ss.png"
+    ]
   },
   {
     "THEME": "Monterey Frost",
     "LINK": "https://github.com/rishav12s/Monterey-Frost",
     "OWNER": "https://github.com/rishav12s",
     "DESCRIPTION": "Mac-OS inspired dark theme",
-    "COLORSCHEME": ["#3B4252", "#D8DEE9"],
+    "COLORSCHEME": [
+      "#3B4252",
+      "#D8DEE9"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Monterey Frost/ss.png"
     ]
@@ -450,15 +598,23 @@
     "LINK": "https://github.com/rishav12s/Pixel-Dream",
     "OWNER": "https://github.com/rishav12s",
     "DESCRIPTION": "Pixel Art inspired theme",
-    "COLORSCHEME": ["#282828", "#EBDDB2"],
-    "PREVIEW": ["/home/enoch/.cache/hyde/gallery-database/Pixel Dream/ss.png"]
+    "COLORSCHEME": [
+      "#282828",
+      "#EBDDB2"
+    ],
+    "PREVIEW": [
+      "/home/enoch/.cache/hyde/gallery-database/Pixel Dream/ss.png"
+    ]
   },
   {
     "THEME": "Crimson Blade",
     "LINK": "https://github.com/cyb3rgh0u1/Crimson-Blade",
     "OWNER": "https://github.com/cyb3rgh0u1",
     "DESCRIPTION": "A striking fusion of sharp elegance, cutting through the darkness with bold hues.",
-    "COLORSCHEME": ["#082451", "#D32D6B"],
+    "COLORSCHEME": [
+      "#082451",
+      "#D32D6B"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Crimson Blade/preview.png"
     ]
@@ -468,15 +624,23 @@
     "LINK": "https://github.com/rishav12s/Vanta-Black",
     "OWNER": "https://github.com/rishav12s",
     "DESCRIPTION": "Vanta Black inspired theme having the deepest blacks",
-    "COLORSCHEME": ["#000000", "#FFFFFF"],
-    "PREVIEW": ["/home/enoch/.cache/hyde/gallery-database/Vanta Black/ss_1.png"]
+    "COLORSCHEME": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "PREVIEW": [
+      "/home/enoch/.cache/hyde/gallery-database/Vanta Black/ss_1.png"
+    ]
   },
   {
     "THEME": "Another World",
     "LINK": "https://github.com/cyb3rgh0u1/Another-World",
     "OWNER": "https://github.com/cyb3rgh0u1",
     "DESCRIPTION": "Step beyond the horizon, where reality fades and imagination reigns supreme.",
-    "COLORSCHEME": ["#11111B", "#6AA9C9"],
+    "COLORSCHEME": [
+      "#11111B",
+      "#6AA9C9"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Another World/preview.png"
     ]
@@ -486,7 +650,10 @@
     "LINK": "https://github.com/rishav12s/Eternal-Arctic",
     "OWNER": "https://github.com/rishav12s",
     "DESCRIPTION": "Serene Nord-inspired theme having frosty aesthetic blues",
-    "COLORSCHEME": ["#2E3440", "#88C0D0"],
+    "COLORSCHEME": [
+      "#2E3440",
+      "#88C0D0"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Eternal Arctic/ss.png"
     ]
@@ -496,7 +663,10 @@
     "LINK": "https://github.com/rishav12s/Ever-Blushing",
     "OWNER": "https://github.com/rishav12s",
     "DESCRIPTION": "Ever-Blush inspired dark aesthetic minimal theme",
-    "COLORSCHEME": ["#141b1e", "#67b0e8"],
+    "COLORSCHEME": [
+      "#141b1e",
+      "#67b0e8"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Ever Blushing/ss_1.jpg"
     ]
@@ -506,7 +676,10 @@
     "LINK": "https://github.com/richen604/BlueSky",
     "OWNER": "https://github.com/richen604",
     "DESCRIPTION": "A serene theme inspired by bright cloudy skies",
-    "COLORSCHEME": ["#294052", "#AACBF0"],
+    "COLORSCHEME": [
+      "#294052",
+      "#AACBF0"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/BlueSky/250121-2.png",
       "/home/enoch/.cache/hyde/gallery-database/BlueSky/250121-3.png",
@@ -518,7 +691,10 @@
     "LINK": "https://github.com/jackpawlik1/Amethyst-Aura",
     "OWNER": "https://github.com/jackpawlik1",
     "DESCRIPTION": "A vibrant purple-themed style with ethereal accents",
-    "COLORSCHEME": ["#5D69CE", "#A45785"],
+    "COLORSCHEME": [
+      "#5D69CE",
+      "#A45785"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Amethyst-Aura/Preview.png"
     ]
@@ -528,7 +704,10 @@
     "LINK": "https://github.com/jackpawlik1/Nightbrew",
     "OWNER": "https://github.com/jackpawlik1",
     "DESCRIPTION": "A rich, dark theme crafted for late-night productivity and sleek aesthetics.",
-    "COLORSCHEME": ["#1A1B26", "#A9B1D6"],
+    "COLORSCHEME": [
+      "#1A1B26",
+      "#A9B1D6"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Nightbrew/image.png",
       "/home/enoch/.cache/hyde/gallery-database/Nightbrew/image2.png",
@@ -541,7 +720,10 @@
     "LINK": "https://github.com/G00380316/virtual-witches",
     "OWNER": "https://github.com/G00380316",
     "DESCRIPTION": "HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon",
-    "COLORSCHEME": ["#626880", "#C6D0F5"],
+    "COLORSCHEME": [
+      "#626880",
+      "#C6D0F5"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Virtual-Witches/preview.jpg"
     ]
@@ -551,7 +733,10 @@
     "LINK": "https://github.com/Maroc02/Breezy-Autumn",
     "OWNER": "https://github.com/Maroc02",
     "DESCRIPTION": "Autumn, what a cozy time...",
-    "COLORSCHEME": ["#222222", "#B36D43"],
+    "COLORSCHEME": [
+      "#222222",
+      "#B36D43"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Breezy Autumn/overview.gif"
     ]
@@ -561,7 +746,10 @@
     "LINK": "https://github.com/Maroc02/Cosmic-Blue",
     "OWNER": "https://github.com/Maroc02",
     "DESCRIPTION": "Out there, somewhere in our galaxy...",
-    "COLORSCHEME": ["#444B6A", "#7AA2F7"],
+    "COLORSCHEME": [
+      "#444B6A",
+      "#7AA2F7"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Cosmic Blue/overview.gif"
     ]
@@ -571,7 +759,10 @@
     "LINK": "https://github.com/Maroc02/Moonlight",
     "OWNER": "https://github.com/Maroc02",
     "DESCRIPTION": "Gentle, soft moonlight lingers on my face...",
-    "COLORSCHEME": ["#403C64", "#40FFFF"],
+    "COLORSCHEME": [
+      "#403C64",
+      "#40FFFF"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Moonlight/overview.gif"
     ]
@@ -581,7 +772,10 @@
     "LINK": "https://github.com/Maroc02/Peace-Of-Mind",
     "OWNER": "https://github.com/Maroc02",
     "DESCRIPTION": "Finally, some peace of mind...",
-    "COLORSCHEME": ["#1F1F28", "#E6C384"],
+    "COLORSCHEME": [
+      "#1F1F28",
+      "#E6C384"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Peace Of Mind/overview.gif"
     ]
@@ -591,7 +785,10 @@
     "LINK": "https://github.com/Maroc02/Timeless-Dream",
     "OWNER": "https://github.com/Maroc02",
     "DESCRIPTION": "Maybe, it's all just a dream...",
-    "COLORSCHEME": ["#252B37", "#89DDFF"],
+    "COLORSCHEME": [
+      "#252B37",
+      "#89DDFF"
+    ],
     "PREVIEW": [
       "/home/enoch/.cache/hyde/gallery-database/Timeless Dream/overview.gif"
     ]
